@@ -58,4 +58,4 @@ I'm a Data Scientist / AI Engineer student passionate about both the high-level 
 
 Connect with me on LinkedIn
 
-Read my post detailing the logic behind this project [here]().
+Read my post detailing the logic behind this project [here](https://www.linkedin.com/posts/sagar-patle-304ab1300_machinelearning-reinforcementlearning-python-activity-7446568767213568000-kLwR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE0Me3QB8KyuxgoaZ9tUGsTiT4judQ2LNYI).
